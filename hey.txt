@@ -1,0 +1,3 @@
+Hi Ayush, This is my first time using wsl vim.
+Apparently it's not a good way to code, atleast for newbies(which im sadly).
+
